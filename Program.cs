@@ -48,3 +48,21 @@
 // Console.WriteLine($"Содержит слово «код»: {containsCode}");
 // Console.WriteLine($"Начинается с «Привет»: {startsHello}");
 // Console.WriteLine($"Заканчивается на !: {endsExclamation}");
+// шаг 8
+// using System.Text;
+// string result = "";
+// for (int i = 1; i <= 5; i++)
+// {
+//     result += i + " ";
+// }
+// Console.WriteLine("Через +=: " + result);
+// StringBuilder sb = new StringBuilder();
+
+// for (int i = 1; i <= 5; i++)
+// {
+//     sb.Append(i);
+//     sb.Append(" ");
+// }
+
+// Console.WriteLine("Через StringBuilder: " + sb.ToString());
+// шаг 9
