@@ -1,0 +1,14 @@
+/Users/yaroslav/Desktop/lab10/bin/Debug/net10.0/lab10
+/Users/yaroslav/Desktop/lab10/bin/Debug/net10.0/lab10.deps.json
+/Users/yaroslav/Desktop/lab10/bin/Debug/net10.0/lab10.runtimeconfig.json
+/Users/yaroslav/Desktop/lab10/bin/Debug/net10.0/lab10.dll
+/Users/yaroslav/Desktop/lab10/bin/Debug/net10.0/lab10.pdb
+/Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/lab10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/lab10.AssemblyInfoInputs.cache
+/Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/lab10.AssemblyInfo.cs
+/Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/lab10.csproj.CoreCompileInputs.cache
+/Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/lab10.dll
+/Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/refint/lab10.dll
+/Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/lab10.pdb
+/Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/lab10.genruntimeconfig.cache
+/Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/ref/lab10.dll
