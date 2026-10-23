@@ -12,3 +12,4 @@
 /Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/lab10.pdb
 /Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/lab10.genruntimeconfig.cache
 /Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/ref/lab10.dll
+/Users/yaroslav/Desktop/lab10/obj/Debug/net10.0/lab10.sourcelink.json
